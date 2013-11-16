@@ -1,0 +1,10 @@
+{
+	"name": "trac2github",
+	"version": "0.0.1",
+	"description": "Import trac tickets CSV to github issues",
+	"author": "Jason Schapiro <yono38@gmail.com> (http://jasonschapiro.com)",
+	"dependencies": {
+		"github" : "~0.1.8",
+		"csv" : "~0.3.6"
+	}
+}
